@@ -95,6 +95,9 @@ span{
 }
 
 
+
+
+
 @media (max-width:600px){
   body{
     margin-top: 5%;
@@ -136,7 +139,7 @@ span{
   .preview{
     width: 24rem;
     position: absolute;
-    top: 45%;
+    top: 50%;
     margin-left: 8px;
     margin-right: 1rem;
   }
@@ -148,4 +151,5 @@ span{
     margin-top: 2%;
     height: 7%;
   }
+
 }
